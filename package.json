@@ -1,0 +1,14 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A command-line application to generate professional README's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe McKenna",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
