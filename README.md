@@ -1,6 +1,6 @@
 # README_Generator
 
-Description
+# Description
 This command-line application dynamically generates a professional README.md file from user input. Built with Node.js and utilizing the Inquirer package, it streamlines the creation process of a README, allowing developers to quickly produce a high-quality document that includes essential project information.
 
 # User Story
