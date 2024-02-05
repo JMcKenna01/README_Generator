@@ -18,6 +18,9 @@ Interactive command-line interface for ease of use.
 
 # Walkthrough Video
 Click here to view the walkthrough video.
+[ReadMEGen.webm](https://github.com/JMcKenna01/README_Generator/assets/147211404/cdd7f08a-f97f-4dd4-8d4d-b4ff4e159df9)
+
+
 
 # Questions
 For any questions or issues, please open an issue on GitHub.
